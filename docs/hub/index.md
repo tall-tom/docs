@@ -2,7 +2,7 @@
 hero_img: ../images/cloud-hero.png
 ---
 
-The Hub is the fastest way to start building and experimenting on Textile technologies. It provides hosted [Buckets](../buckets/index.md) and [Threads](../threads/index.md) with persistent IFPS endpoints. It includes developer accounts for individuals and organizations and API keys integration into apps.
+The Hub is the fastest way to start building and experimenting on Textile technologies. It provides hosted [Buckets](../buckets/index.md) and [Threads](../threads/index.md) with persistent IPFS endpoints. It includes developer accounts for individuals and organizations and API keys integration into apps.
 
 ## Security
 
